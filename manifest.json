@@ -1,0 +1,23 @@
+{
+  "name": "Vencimientos Personal",
+  "short_name": "Vencimientos",
+  "start_url": "/vencimientos-personal/",
+  "scope": "/vencimientos-personal/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/B6FRYbCV/Vencimientos.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/B6FRYbCV/Vencimientos.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
